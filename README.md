@@ -12,21 +12,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/chris-patrick-29854138/" />][linkedin]
-
 <br />
-
-### Languages and Tools:
-
-<br />
-<br />
-
----
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. 💪 Finished Electron Text Editor App (https://github.com/Atomize101/textEditor-electron)
