@@ -1,13 +1,13 @@
 ### Christopher Patrick - atomize101 [website] 👋
 
 [Website](http://www.nuclearcoding.com)
-[Twitter Follow](https://twitter.com/atomize101)
+[Twitter](https://twitter.com/atomize101)
 
 ## Full Stack Developer
 
 -   🌱 I’m currently learning everything 🤣
--   👯 I’m looking to collaborate with other content creators
 -   🥅 2020 Goals: Contribute more to Open Source projects
+-   💪 Master ReactJs
 -   ⚡ Playing the Guitar and Video games are my favorite hobbies!
 
 ### Connect with me:
