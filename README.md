@@ -1,6 +1,7 @@
 ### Christopher Patrick - atomize101 [website] 👋
 
 [Website](http://www.nuclearcoding.com)
+<br />
 [Twitter](https://twitter.com/atomize101)
 
 ## Full Stack Developer
