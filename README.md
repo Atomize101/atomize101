@@ -14,14 +14,12 @@
 
 <br />
 
-<details>
-  Recent GitHub Activity
-  
+Recent GitHub Activity
+
 <!--START_SECTION:activity-->
+
 1. 💪 Finished Electron Text Editor App (https://github.com/Atomize101/textEditor-electron)
 1. 💪 Finished Horoscope React App (https://github.com/Atomize101/textEditor-electron)
-
-</details>
 
 [website]: http://www.nuclearcoding.com
 [twitter]: https://twitter.com/atomize101
