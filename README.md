@@ -21,7 +21,7 @@ Recent GitHub Activity
 
 1. 💪 Finished Site replication changes for CSS practice (https://github.com/Atomize101/siteReplicationExamples)
 2. 💪 Finished Electron Text Editor App (https://github.com/Atomize101/textEditor-electron)
-3. 💪 Finished Horoscope React App (https://github.com/Atomize101/textEditor-electron)
+3. 💪 Finished Horoscope React App (https://github.com/Atomize101/horoscope-react)
 
 [website]: http://www.nuclearcoding.com
 [twitter]: https://twitter.com/atomize101
