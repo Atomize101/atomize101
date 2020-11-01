@@ -19,7 +19,7 @@ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 
-1. 💪 Deployed the following projects: [recipeSearch-react](https://quizzical-lumiere-f9335b.netlify.app/), [horoscope-react](https://zealous-kepler-2b766c.netlify.app/), [expenseTracker-react](https://cranky-bose-3716f4.netlify.app/, [movieCompare](https://boring-borg-e31d2d.netlify.app))
+1. 💪 Deployed the following projects: [recipeSearch-react](https://quizzical-lumiere-f9335b.netlify.app/), || [horoscope-react](https://zealous-kepler-2b766c.netlify.app/), || [expenseTracker-react](https://cranky-bose-3716f4.netlify.app/), || [movieCompare](https://boring-borg-e31d2d.netlify.app))
 2. ⚡ Finished shopping list react-native app. Basic functionality complete. (https://github.com/Atomize101/shoppingListMobile/commits/master)
 3. ⚡ Working on a mobile shopping list with React-native (https://github.com/Atomize101/shoppingListMobile/commits/master)
 4. 🌱 Front end portion of expenseTracker-react app complete (https://github.com/Atomize101/expenseTracker-react/commits/master)
