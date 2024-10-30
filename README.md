@@ -2,7 +2,6 @@
 
 ### Connect with me:
 
-[Website](http://www.nuclearcoding.com)
 <br />
 [Twitter](https://twitter.com/atomize101)
 
